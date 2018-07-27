@@ -1,0 +1,14 @@
+body{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: orange;
+}
+div{
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 10px;
+    padding: 25px 25px ;
+    
+}
